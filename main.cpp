@@ -3,6 +3,9 @@
  Chapter 5 Part 7 Task
 
  Create a branch named Part1
+
+Purpose:  This project will teach you about variadic templates and recursive templates, one of the last areas needing discussion while learning C++
+
  
 1) read Instructions.cpp
 
